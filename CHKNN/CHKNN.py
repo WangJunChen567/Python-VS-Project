@@ -1,3 +1,9 @@
+#-------------------------------------------------------------------------------
+# Qin, Y., Yu, Z. L., Wang, C. D., Gu, Z., & Li, Y. 
+# (2018). A Novel clustering method based on hybrid K-nearest-neighbor graph. 
+# Pattern Recognition, 74, 1-14.
+#-------------------------------------------------------------------------------
+
 from pandas import read_csv
 import numpy as np
 import matplotlib.pyplot as plt
