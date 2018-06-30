@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 2495508,
+    "Username": "WangJunChen567",
+    "Name": "Junchen Wang",
+    "Email": "wangjunchen@cug.edu.cn",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/88c044833e4ca5b70665419eee5c825c?s=80&d=identicon",
+    "PrivateToken": "3632064a20a6c775e84af926475a9dd24abf114bf8d52322aed429a7c545fb08",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
